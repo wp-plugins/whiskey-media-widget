@@ -3,13 +3,13 @@
 Plugin Name: Whiskey Media Widget
 Description: Fetches a list of items from a specific Whiskey Media site based on the post tags.
 Author: The Lonely Coder
-Version: 0.3
+Version: 0.3.1
 License: GPLv2
 --
-Copyright 2011 Michael Enger (email : mike@thelonelycoder.com)
+Copyright 2013 Michael Enger (email : mike@thelonelycoder.com)
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License, version 2, as 
+it under the terms of the GNU General Public License, version 2, as
 published by the Free Software Foundation.
 
 This program is distributed in the hope that it will be useful,
