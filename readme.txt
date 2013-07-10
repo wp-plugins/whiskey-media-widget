@@ -2,8 +2,8 @@
 Contributors: michaelenger
 Tags: giant bomb, comic vine, games, comics, whiskey media, widget
 Requires at least: 3.0
-Tested up to: 3.2.1
-Stable tag: 0.3
+Tested up to: 3.5.2
+Stable tag: 0.3.1
 
 Fetches a list of games from the specified Whiskey Media website based on the post tags.
 
@@ -38,6 +38,9 @@ Last time I checked, that site didn't have an active API yet. If a Whiskey Media
 
 == Changelog ==
 
+= 0.3.1 =
+* Updated the widgets to use the new API formats.
+
 = 0.3 =
 * Split the single widget into several
 
@@ -48,6 +51,9 @@ Last time I checked, that site didn't have an active API yet. If a Whiskey Media
 * Plugin created.
 
 == Upgrade Notice ==
+
+= 0.3.1 =
+Fixed the API connections that were broken by the move to the new pages.
 
 = 0.3 =
 The Whiskey Media widget has been split into separate widgets based on the website being searched (Giant Bomb, Comic Vine).
